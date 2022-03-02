@@ -4,6 +4,8 @@ Calculadora básica de imc criada com React + Typescript.
 
 Este projeto foi desenvolvido no curso B7WEB.
 
+<img src="https://github.com/d8web/react-ts-imc/blob/main/public/Anima%C3%A7%C3%A3o.gif"/>
+
 ### Features
 
 - [x] Calculo de IMC
